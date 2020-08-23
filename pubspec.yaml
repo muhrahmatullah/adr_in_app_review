@@ -1,5 +1,5 @@
 name: adr_in_app_review
-description: A new flutter plugin project.
+description: A Flutter plugin for allowing users to submit review to playstore using google in app review api.
 version: 0.0.1
 author:
 homepage:
