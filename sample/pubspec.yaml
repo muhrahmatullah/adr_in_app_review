@@ -1,0 +1,22 @@
+name: sample
+description: Demonstrates how to use the in app review plugin.
+
+version: 1.2.0+6
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  adr_in_app_review:
+    path: ../
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
