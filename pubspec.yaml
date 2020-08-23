@@ -1,8 +1,7 @@
 name: adr_in_app_review
 description: A Flutter plugin for allowing users to submit review to playstore using google in app review api.
 version: 0.0.1
-author:
-homepage:
+homepage: https://github.com/muhrahmatullah/adr_in_app_review
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
