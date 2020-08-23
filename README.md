@@ -1,6 +1,8 @@
 # adr_in_app_review
 
-Flutter plugin project to show in app review dialog by google play
+Flutter plugin project to show in app review dialog by google play.
+
+**This plugin only support android os**
 
 ## Getting Started
 
