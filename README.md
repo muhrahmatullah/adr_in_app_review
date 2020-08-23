@@ -1,5 +1,8 @@
 # adr_in_app_review
 
+
+[![pub package](https://img.shields.io/pub/v/adr_in_app_review.svg)](https://pub.dartlang.org/packages/adr_in_app_review)
+
 Flutter plugin project to show in app review dialog by google play.
 
 **This plugin only support android os**
