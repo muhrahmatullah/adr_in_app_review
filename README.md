@@ -40,6 +40,6 @@ screenshots:
 
 Ss 1 | Ss2 | Ss3
 ------------ | ------------- | ------------- 
-<img src="https://github.com/muhrahmatullah/adr_in_app_review/blob/master/ss/1.png" width="480" height="720" /> | <img src="https://github.com/muhrahmatullah/adr_in_app_review/blob/master/ss/3.png" width="480" height="720" /> | <img src="https://github.com/muhrahmatullah/adr_in_app_review/blob/master/ss/2.png" width="480" height="720" />
+<img src="https://github.com/muhrahmatullah/adr_in_app_review/blob/master/ss/1.png" /> | <img src="https://github.com/muhrahmatullah/adr_in_app_review/blob/master/ss/3.png"/> | <img src="https://github.com/muhrahmatullah/adr_in_app_review/blob/master/ss/2.png"/>
 
 note: in above screenshots, I used internal app sharing therefore the submit button is disabled
